@@ -111,7 +111,7 @@ Publish the website in the LocalHost.
   </div>
 </body>
 </html>
-  ~~~
+ ~~~
 
 ## OUTPUT:
 myproject/bookapp/static/Screenshot 2025-04-28 114706.png
